@@ -23,4 +23,3 @@ def main():
     print(f"Limo drove {distance_driven} km")
     print(limo)
 main()
-
