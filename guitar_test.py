@@ -3,7 +3,6 @@ CP1404 Practical - Guitar test
 Estimate: 25 minutes
 Actual time: 20 minutes
 """
-
 from prac_06.guitar import Guitar
 
 

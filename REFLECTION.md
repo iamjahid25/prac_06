@@ -1,7 +1,7 @@
 # CP1404 Practical Reflection
 
 ## What have you changed about your process in this subject based on your personal reflection?
-
+ 
 I’ve become more proactive in organizing my study time and breaking down tasks into smaller, manageable parts. 
 This has helped me avoid procrastination and manage my workload better.
 
@@ -22,4 +22,3 @@ the deadlines.
 ## What is one request you have or change you suggest for this subject and/or your IT degree overall?
 
 Everything is going fine.
-

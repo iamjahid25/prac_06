@@ -4,7 +4,6 @@ Estimate: 30 minutes
 Actual time: 40 minutes
 """
 
-
 class Guitar:
     """Represent a Guitar object."""
 

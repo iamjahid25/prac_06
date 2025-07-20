@@ -9,7 +9,6 @@ from guitar import Guitar
 print("My guitars!")
 guitars = []
 
-
 name = input("Name: ")
 while name != "":
     year = int(input("Year: "))
